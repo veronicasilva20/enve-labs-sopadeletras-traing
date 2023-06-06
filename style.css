@@ -20,5 +20,5 @@ body{
     background-color: red;
 }
 #palabras p.correct {
-    color: green;
+    color: rgb(49, 26, 134);
 }
